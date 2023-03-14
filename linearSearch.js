@@ -8,9 +8,20 @@ function linearSearch(array, key){
       //compare current value to target
       // reach end of list
     }
-    return -1;
+    return null;
   }
+
+  function verify(index) {
+    if (index !== null) {
+    console.log("Target found at index:", index);
+    } else {
+    console.log("Target not found in list");
+    }
+}
   
-  console.log(linearSearch([1,2,3,4,5,6,7,8,9,10], 5));
+const index = linearSearch([1,2,3,4,5,6,7,8,9,10], 112);
+verify(index);
+
+//   console.log(linearSearch([1,2,3,4,5,6,7,8,9,10], 5));
 
   //big(O)n value of n
