@@ -1,5 +1,5 @@
 function linearSearch(array, key){
-    //start at beginning
+    //start at beginning of list
     for(let i = 0; i < array.length; i++){
     //move sequentially
       if(array[i] === key) {
@@ -11,3 +11,6 @@ function linearSearch(array, key){
     return -1;
   }
   
+  console.log(linearSearch([1,2,3,4,5,6,7,8,9,10], 5));
+
+  //big(O)n value of n
