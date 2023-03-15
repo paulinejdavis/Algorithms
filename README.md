@@ -30,7 +30,8 @@ in the worst case scenario. Notion that condenses down to one variable. For line
 O(n) and for binary search it has a time complexity of big O(log n). Own space and time complexity. Reading a value in
 a list is a constant time. Runtime remains the same. Common runtimes: constant, linear, logarithmic and quadriactic runtime 
 and expensive quadriatic runtime. Quasilinear runtime - linear andquadratic. Brute force algorithm - try every 
-possible solution - inefficient.
+possible solution - inefficient. Big O tells you number of operation is performed. Doesn't describe duration of operation.
+A useful tool for quickly describing how the runtime of an algorithm increases as the data set it's operating on gets bigger.
 
 ### Algorithms with polynominal run times
 
@@ -64,3 +65,39 @@ between the values in the collection as well as the operations applied on the da
 * A contingous data structure  - no gaps. Stores a value including a reference to where the next value is.
 * Follows a pointer to the next value.
 * Arrays can be homongenous (containing the same type of value) or heterogenous(where any type of value can be mixed).
+
+## Operations on Arrays
+* Access and read values
+* Search for an arbitrary value
+* Insert values at any point into the structure
+* Delete values in the structure
+
+## Exploring Arrays:
+
+### Array Characteristics and Storage
+https://teamtreehouse.com/library/introduction-to-data-structures/array-characteristics-and-storage
+
+### Operations on Arrays
+https://teamtreehouse.com/library/introduction-to-data-structures/operations-on-arrays
+
+## Building a Linked List:
+
+### Singly and Doubly Linked Lists
+https://teamtreehouse.com/library/introduction-to-data-structures/singly-and-doubly-linked-lists
+
+### Linked List Operations
+https://teamtreehouse.com/library/introduction-to-data-structures/linked-lists-operations
+
+
+## The Merge Sort Algorithm:
+
+### Merge Sort Implementations:
+https://teamtreehouse.com/library/introduction-to-data-structures/merge-sort-implementations
+
+### Alternate Versions of Merge Sort: 
+https://teamtreehouse.com/library/introduction-to-data-structures/alternate-versions-of-merge-sort
+
+## Merge Sort and Linked Lists:
+
+### Implementing Merge Sort on Linked Lists
+https://teamtreehouse.com/library/introduction-to-data-structures/implementing-merge-sort-on-linked-lists
