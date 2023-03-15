@@ -36,8 +36,6 @@ A useful tool for quickly describing how the runtime of an algorithm increases a
 ### Algorithms with polynominal run times
 
 
-
-
 ## Linear Search
 ```
  Linear Search Implementations:
