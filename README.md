@@ -55,6 +55,9 @@ the target value is. Logarithmic time and constant space.
 
 # Data Structures
 
+<img width="100" alt="arrow" src="https://user-images.githubusercontent.com/19231569/213458967-d77d1ede-cbb8-4cda-8d58-7ac2a1c70503.png"> &nbsp;<img width="100" alt="logo" src="https://user-images.githubusercontent.com/111147520/224722633-4514c7d6-b10e-41d0-8942-80147bdb88ff.png"> &nbsp;
+<img width="100" alt="logo" src="https://user-images.githubusercontent.com/111147520/224819343-82ceb3c6-609e-48f7-9fec-d165a924545f.png">
+
 A data storage format. It is the collection of values and the format they are stored in, the relationship
 between the values in the collection as well as the operations applied on the data stored in the structure.
 
